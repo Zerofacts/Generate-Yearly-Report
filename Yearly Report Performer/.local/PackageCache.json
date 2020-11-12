@@ -2,6 +2,17 @@
   "Packages": [
     {
       "Package": {
+        "Id": "UiPath.Credentials.Activities",
+        "Version": "1.1.6479.13204"
+      },
+      "Assemblies": [
+        "C:\\Users\\Thach\\.nuget\\packages\\credentialmanagement/1.0.2\\lib/net35/CredentialManagement.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\uipath.credentials.activities/1.1.6479.13204\\lib/net40-client/UiPath.Credentials.Activities.dll"
+      ],
+      "Path": "C:\\Users\\Thach\\.nuget\\packages\\uipath.credentials.activities\\1.1.6479.13204"
+    },
+    {
+      "Package": {
         "Id": "UiPath.Excel.Activities",
         "Version": "2.9.3"
       },
@@ -20,6 +31,47 @@
         "C:\\Users\\Thach\\.nuget\\packages\\uipath.excel.activities/2.9.3\\lib/net461/UiPath.Excel.dll"
       ],
       "Path": "C:\\Users\\Thach\\.nuget\\packages\\uipath.excel.activities\\2.9.3"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.FTP.Activities",
+        "Version": "1.0.7495.12930"
+      },
+      "Assemblies": [
+        "C:\\Users\\Thach\\.nuget\\packages\\uipath.ftp.activities/1.0.7495.12930\\lib/net452/UiPath.FTP.Activities.Design.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\uipath.ftp.activities/1.0.7495.12930\\lib/net452/UiPath.FTP.Activities.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\uipath.ftp.activities/1.0.7495.12930\\lib/net452/UiPath.FTP.dll"
+      ],
+      "Path": "C:\\Users\\Thach\\.nuget\\packages\\uipath.ftp.activities\\1.0.7495.12930"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Mail.Activities",
+        "Version": "1.9.3"
+      },
+      "Assemblies": [
+        "C:\\Users\\Thach\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.PlatformServices.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\google.apis.calendar.v3/1.43.0.1872\\lib/net45/Google.Apis.Calendar.v3.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\google.apis.core/1.43.0\\lib/net45/Google.Apis.Core.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\google.apis.gmail.v1/1.43.0.1859\\lib/net45/Google.Apis.Gmail.v1.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\google.apis.peopleservice.v1/1.43.0.1876\\lib/net45/Google.Apis.PeopleService.v1.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\interop.domino.dll/1.0.0\\lib/Interop.Domino.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\microsoft.identity.client/4.14.0\\lib/net45/Microsoft.Identity.Client.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\uipath.mail.activities/1.9.3\\lib/net461/MailKit.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\uipath.mail.activities/1.9.3\\lib/net461/MimeKit.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\uipath.mail.activities/1.9.3\\lib/net461/UiPath.Mail.Activities.Design.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\uipath.mail.activities/1.9.3\\lib/net461/UiPath.Mail.Activities.dll",
+        "C:\\Users\\Thach\\.nuget\\packages\\uipath.mail.activities/1.9.3\\lib/net461/UiPath.Mail.dll"
+      ],
+      "Path": "C:\\Users\\Thach\\.nuget\\packages\\uipath.mail.activities\\1.9.3"
     },
     {
       "Package": {
@@ -137,58 +189,6 @@
         "C:\\Users\\Thach\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\Thach\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.6"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.Credentials.Activities",
-        "Version": "1.1.6479.13204"
-      },
-      "Assemblies": [
-        "C:\\Users\\Thach\\.nuget\\packages\\credentialmanagement/1.0.2\\lib/net35/CredentialManagement.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\uipath.credentials.activities/1.1.6479.13204\\lib/net40-client/UiPath.Credentials.Activities.dll"
-      ],
-      "Path": "C:\\Users\\Thach\\.nuget\\packages\\uipath.credentials.activities\\1.1.6479.13204"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.Mail.Activities",
-        "Version": "1.9.3"
-      },
-      "Assemblies": [
-        "C:\\Users\\Thach\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.PlatformServices.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.PlatformServices.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\google.apis.calendar.v3/1.43.0.1872\\lib/net45/Google.Apis.Calendar.v3.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\google.apis.core/1.43.0\\lib/net45/Google.Apis.Core.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\google.apis.gmail.v1/1.43.0.1859\\lib/net45/Google.Apis.Gmail.v1.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\google.apis.peopleservice.v1/1.43.0.1876\\lib/net45/Google.Apis.PeopleService.v1.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\interop.domino.dll/1.0.0\\lib/Interop.Domino.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\microsoft.identity.client/4.14.0\\lib/net45/Microsoft.Identity.Client.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\uipath.mail.activities/1.9.3\\lib/net461/MailKit.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\uipath.mail.activities/1.9.3\\lib/net461/MimeKit.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\uipath.mail.activities/1.9.3\\lib/net461/UiPath.Mail.Activities.Design.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\uipath.mail.activities/1.9.3\\lib/net461/UiPath.Mail.Activities.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\uipath.mail.activities/1.9.3\\lib/net461/UiPath.Mail.dll"
-      ],
-      "Path": "C:\\Users\\Thach\\.nuget\\packages\\uipath.mail.activities\\1.9.3"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.FTP.Activities",
-        "Version": "1.0.7495.12930"
-      },
-      "Assemblies": [
-        "C:\\Users\\Thach\\.nuget\\packages\\uipath.ftp.activities/1.0.7495.12930\\lib/net452/UiPath.FTP.Activities.Design.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\uipath.ftp.activities/1.0.7495.12930\\lib/net452/UiPath.FTP.Activities.dll",
-        "C:\\Users\\Thach\\.nuget\\packages\\uipath.ftp.activities/1.0.7495.12930\\lib/net452/UiPath.FTP.dll"
-      ],
-      "Path": "C:\\Users\\Thach\\.nuget\\packages\\uipath.ftp.activities\\1.0.7495.12930"
     }
   ],
   "Conflicts": [],

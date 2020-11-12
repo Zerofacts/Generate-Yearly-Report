@@ -3573,9 +3573,9 @@
     "restore": {
       "projectUniqueName": "Yearly Report Performer",
       "projectName": "Yearly Report Performer",
-      "projectPath": "C:\\Users\\Thach\\Documents\\UiPath\\Yearly Report Performer\\.local",
+      "projectPath": "C:\\Users\\Thach\\Documents\\UiPath\\Generate Yearly Report\\Yearly Report Performer\\.local",
       "packagesPath": "C:\\Users\\Thach\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thach\\Documents\\UiPath\\Yearly Report Performer\\.local"
+      "outputPath": "C:\\Users\\Thach\\Documents\\UiPath\\Generate Yearly Report\\Yearly Report Performer\\.local"
     },
     "frameworks": {
       "net461": {
@@ -3626,19 +3626,19 @@
       ]
     },
     {
-      "code": "NU1102",
+      "code": "NU1101",
       "level": "Error",
-      "message": "Unable to find package SSH.NET with version (>= 2016.1.0)\r\n  - Found 1 version(s) in https://www.myget.org/F/workflow/ [ Nearest version: 2013.4.7 ]\r\n  - Found 1 version(s) in https://www.myget.org/F/workflow/ [ Nearest version: 2013.4.7 ]\r\n  - Found 1 version(s) in Official [ Nearest version: 2013.4.7 ]\r\n  - Found 0 version(s) in C:\\Users\\Thach\\AppData\\Local\\UiPath\\app-20.10.2-beta0004\\.\\Packages\r\n  - Found 0 version(s) in Local\r\n  - Found 0 version(s) in https://gallery.uipath.com/api/v2\r\n  - Found 0 version(s) in Connect",
-      "libraryId": "SSH.NET",
+      "message": "Unable to find package FluentFTP. No packages exist with this id in source(s): C:\\Users\\Thach\\AppData\\Local\\UiPath\\app-20.10.2-beta0004\\.\\Packages, Connect, https://gallery.uipath.com/api/v2, https://www.myget.org/F/workflow/, https://www.myget.org/F/workflow/, Local, Official",
+      "libraryId": "FluentFTP",
       "targetGraphs": [
         ".NETFramework,Version=v4.6.1"
       ]
     },
     {
-      "code": "NU1101",
+      "code": "NU1102",
       "level": "Error",
-      "message": "Unable to find package FluentFTP. No packages exist with this id in source(s): C:\\Users\\Thach\\AppData\\Local\\UiPath\\app-20.10.2-beta0004\\.\\Packages, Connect, https://gallery.uipath.com/api/v2, https://www.myget.org/F/workflow/, https://www.myget.org/F/workflow/, Local, Official",
-      "libraryId": "FluentFTP",
+      "message": "Unable to find package SSH.NET with version (>= 2016.1.0)\r\n  - Found 1 version(s) in https://www.myget.org/F/workflow/ [ Nearest version: 2013.4.7 ]\r\n  - Found 1 version(s) in https://www.myget.org/F/workflow/ [ Nearest version: 2013.4.7 ]\r\n  - Found 1 version(s) in Official [ Nearest version: 2013.4.7 ]\r\n  - Found 0 version(s) in C:\\Users\\Thach\\AppData\\Local\\UiPath\\app-20.10.2-beta0004\\.\\Packages\r\n  - Found 0 version(s) in Local\r\n  - Found 0 version(s) in https://gallery.uipath.com/api/v2\r\n  - Found 0 version(s) in Connect",
+      "libraryId": "SSH.NET",
       "targetGraphs": [
         ".NETFramework,Version=v4.6.1"
       ]
